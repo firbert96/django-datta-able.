@@ -103,13 +103,13 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 
 <br />
 
-### 👉 Set Up for `Windows` 
+### 👉 Set Up for `Windows` (BASH)
 
 > Install modules via `VENV` (windows) 
 
 ```
 $ virtualenv env
-$ .\env\Scripts\activate
+$ source env/Scripts/activate 
 $ pip3 install -r requirements.txt
 ```
 
