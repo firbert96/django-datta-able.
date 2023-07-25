@@ -4,5 +4,6 @@ python-dotenv
 whitenoise
 django-admin-datta==1.0.10
 
-psycopg2-binary
-mysqlclient
+# <library for windows>
+# psycopg2-binary
+# mysqlclient
